@@ -69,4 +69,4 @@ async def on_message(message):
         os.system("rm "+path+cmd2)
     
 
-client.run("OTE3MDc4NTkzNDI5OTg3Mzg5.Yazd_w.ofjTnFhHg8UfJOiW000Ifv2MAdA")
+client.run("")
